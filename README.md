@@ -1,6 +1,6 @@
 # Real Time Bus Tracker
 
-## Desciption of Project [How To Run]
+## Description of Project [How To Run]
 
 
 ## Roadmap of Future Improvements
