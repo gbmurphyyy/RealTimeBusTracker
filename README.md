@@ -8,4 +8,3 @@ There are currently no upcoming updates or improvements to this repository at th
 
 ## License Information
 MIT license (see LICENSE file for additional details)
-LICENSE.txt
